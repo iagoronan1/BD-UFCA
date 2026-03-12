@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 sqlalchemy
 psycopg2-binary
+=======
+sqlalchemy
+psycopg2-binary
+>>>>>>> 001448c0521ec805a4b6bc80b5ab1c80f4c78714
 python-dotenv
